@@ -48,6 +48,7 @@ public class Banca {
     public static void main (String args[]) throws Exception {
         creaNuovoConto();
         creaNuovoContoOnLine();
+
     }
 }
 

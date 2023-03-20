@@ -17,15 +17,13 @@ public class Main {
             System.out.println("Calcolo effettuato!");
         } catch (Exception e) {
             throw e;
-        } finally {
-            System.out.println("Calcolo completato");
         }
         return c;
     }
     public static void main(String[] args) throws Exception {
 
         //// ESERCIZIO 1
-       // Esercizio1e2.Esercizio1.creaNumeriCasuali();
+       /// Esercizio1e2.Esercizio1.creaNumeriCasuali();
        /// Esercizio1e2.Esercizio1.inserisciNumeri();
 
         //// ESERCIZIO 2
